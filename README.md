@@ -5,7 +5,7 @@
 - Receive notification when someone comment on your post.
 - Send friend request and accept request.
 - Live chat.
-
+- Uses microarchitecture model
 
 
 
